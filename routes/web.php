@@ -15,7 +15,7 @@ use App\Http\Controllers\CounterController;
 
 // 计数器主页
 Route::get('/', function () {
-    return view('counter');
+    return '庞成勇 是 许桂莲的老公 !!!!!!!!!!!';
 });
 
 // 获取当前计数
